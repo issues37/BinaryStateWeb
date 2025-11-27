@@ -1,8 +1,8 @@
-# BinaryStateBot
+# BinaryStateWeb
 
 ## System Overview
 
-**BinaryStateBot** is a high-fidelity **WIP** terminal emulator interface designed for **BinaryState**. It serves as a minimalist, command-line-based entry point to the BinaryState Network, providing users with a direct, distraction-free environment for accessing project data, communication channels, and system status. Built with **React** and **TypeScript**, this project modernizes the classic terminal aesthetic with robust state management and modular architecture, while preserving the raw, utilitarian feel of a retro terminal.
+**BinaryStateWeb** is a high-fidelity **WIP** terminal emulator interface designed for **BinaryState**. It serves as a minimalist, command-line-based entry point to the BinaryState Network, providing users with a direct, distraction-free environment for accessing project data, communication channels, and system status. Built with **React** and **TypeScript**, this project modernizes the classic terminal aesthetic with robust state management and modular architecture, while preserving the raw, utilitarian feel of a retro terminal.
 
 ## Core Capabilities
 
@@ -38,11 +38,11 @@ To initialize the system locally:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/issues37/BinaryStateBot.git
+    git clone https://github.com/issues37/BinaryStateWeb.git
     ```
 2.  Navigate to the system directory:
     ```bash
-    cd BinaryStateBot
+    cd BinaryStateWeb
     ```
 3.  Install dependencies:
     ```bash
@@ -55,7 +55,7 @@ To initialize the system locally:
 
 ## License
 
-**BinaryStateBot** is proprietary software of **BinaryState**. 
+**BinaryStateWeb** is proprietary software of **BinaryState**. 
 Replication or modification of terminal logic is monitored..
 
 
