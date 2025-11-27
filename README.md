@@ -1,10 +1,8 @@
 # BinaryStateBot
 
-![BinaryStateBot Banner](https://via.placeholder.com/1200x300/000000/ffffff?text=BINARY+STATE+BOT)
-
 ## System Overview
 
-**BinaryStateBot** is a high-fidelity terminal emulator interface designed for **BinaryState Systems**. It serves as a minimalist, command-line-based entry point to the BinaryState network, providing users with a direct, distraction-free environment for accessing project data, communication channels, and system status.
+**BinaryStateBot** is a high-fidelity terminal emulator interface designed for **BinaryState**. It serves as a minimalist, command-line-based entry point to the BinaryState Network, providing users with a direct, distraction-free environment for accessing project data, communication channels, and system status.
 
 Built with **React** and **TypeScript**, this project modernizes the classic terminal aesthetic with robust state management and modular architecture, while preserving the raw, utilitarian feel of a v.13 terminal emulator.
 
@@ -59,8 +57,8 @@ To initialize the system locally:
 
 ## License
 
-**BinaryStateBot** is proprietary software of **BinaryState Systems**. 
-Unauthorized replication or modification of the core terminal logic is monitored.
+**BinaryStateBot** is proprietary software of **BinaryState**. 
+Replication or modification of terminal logic is monitored..
 
 ---
 
